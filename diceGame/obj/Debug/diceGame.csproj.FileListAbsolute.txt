@@ -1,0 +1,7 @@
+C:\Users\Tanburi\source\repos\diceGame\diceGame\obj\Debug\diceGame.csprojAssemblyReference.cache
+C:\Users\Tanburi\source\repos\diceGame\diceGame\obj\Debug\diceGame.csproj.CoreCompileInputs.cache
+C:\Users\Tanburi\source\repos\diceGame\diceGame\bin\Debug\diceGame.exe.config
+C:\Users\Tanburi\source\repos\diceGame\diceGame\bin\Debug\diceGame.exe
+C:\Users\Tanburi\source\repos\diceGame\diceGame\bin\Debug\diceGame.pdb
+C:\Users\Tanburi\source\repos\diceGame\diceGame\obj\Debug\diceGame.exe
+C:\Users\Tanburi\source\repos\diceGame\diceGame\obj\Debug\diceGame.pdb
